@@ -8,7 +8,4 @@ public class Employee {
     public String fullName() {
         return this.firstName + ' ' + this.lastName;
     }
-
-
-
 }
